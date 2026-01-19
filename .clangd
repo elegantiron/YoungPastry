@@ -1,0 +1,14 @@
+InlayHints:
+  Enabled: false
+Hover:
+  ShowAKA: true
+Diagnostics:
+  ClangTidy:
+    Add:
+      - 'bugprone-*'
+      - 'concurrency-*'
+      - 'cppcoreguidelines-*'
+      - 'misc-*'
+      - 'modernize-*'
+      - 'performance-*'
+      - 'portability-*'
