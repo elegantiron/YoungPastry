@@ -16,3 +16,4 @@ Diagnostics:
       - 'readability-*'
     Remove:
       - 'modernize-use-trailing-return-type'
+      - 'misc-use-internal-linkage'
