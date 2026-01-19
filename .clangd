@@ -12,3 +12,5 @@ Diagnostics:
       - 'modernize-*'
       - 'performance-*'
       - 'portability-*'
+    Remove:
+      - 'modernize-use-trailing-return-type'
